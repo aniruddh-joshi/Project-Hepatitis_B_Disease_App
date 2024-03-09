@@ -7,7 +7,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 import os
 import joblib
-#import hashlib
+import hashlib
 
 import matplotlib.pyplot as plt
 import matplotlib
