@@ -42,14 +42,6 @@ A detailed view of the prediction output based on user inputs.
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 - **Deployment**: Streamlit Cloud
 
----
-
-## 📷 Adding Images
-To include the images in your project:
-
-1. Create a folder named `images` in your project directory.
-2. Add your images (e.g., `homepage.png` and `results.png`) to the `images` folder.
-3. Ensure the paths in the README match the image file names and locations.
 
 ---
 
